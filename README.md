@@ -50,3 +50,6 @@ Moderately obese   ; 30 - 34.9       ;  Medium risk
 Severely obese   ;   35 - 39.9        ; High risk
 
 Very severely obese ;40 and above  ;    Very high risk
+
+
+***Note- Run __init__.py file to get the output if you want to add more data open BMI_data.json file and add few more entries stored BMI_Calcuator folder. ***
